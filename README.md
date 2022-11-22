@@ -3,7 +3,7 @@
 - Cursando análise e desenvolvimento de sistemas. 
 
 <div>
-  <a href="https://github.com/AndBalbino">
+  <a href="https://github.com/AndBalbinoo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndBalbino&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndBalbino&layout=compact&langs_count=7&theme=dark"/>
 </div>
