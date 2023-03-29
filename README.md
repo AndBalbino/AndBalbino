@@ -1,6 +1,7 @@
 # Seja bem vindo!
 
-- Cursando análise e desenvolvimento de sistemas. 
+- Graduando em análise e desenvolvimento de sistemas. 
+- Cursando desenvolvimento Full Stack pela instituição EBAC. 
 
 <div>
   <a href="https://github.com/AndBalbino">
