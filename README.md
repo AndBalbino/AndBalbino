@@ -26,7 +26,7 @@ A próposito não deixe de me seguiur e acompanhar meu desenvolvimento e projeto
   
 
   
- <div style="display: inline_block"><br>
+ <div style="display: inline_block">
   
  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> 
   
@@ -38,10 +38,12 @@ A próposito não deixe de me seguiur e acompanhar meu desenvolvimento e projeto
  
  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 
- <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-     
- 
-                   
+<img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+
+<img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
+
+<img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+
   </div>
   
   ##
@@ -51,3 +53,5 @@ A próposito não deixe de me seguiur e acompanhar meu desenvolvimento e projeto
   <a href="https://www.instagram.com/a_balbino0"  target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/anderson-balbino-52a93a233/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+
