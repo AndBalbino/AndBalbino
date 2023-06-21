@@ -4,7 +4,7 @@ Deixa eu me apresentar para você, eu chamo Anderson, sou natural da cidade de S
 Atualmente estou me graduando em análise e desenvolvimento de sistemas e me especializando como desenvolvedor Full-Stack através do  curso profissionalizante ministrado pela EBAC (Escola Britânica de Artes Criativas e Tecnologia).  
 Apaixonado pela área de tecnologia e fascinado por inteligência artificial, quero poder me tornar uma grande referência no mundo tech.  
 
-A próposito não deixe de me seguiur e acompanhar meu desenvolvimento e projetos. 😉  
+A próposito não deixe de me seguir e acompanhar meu desenvolvimento e projetos. 😉  
 
 ## 
 
