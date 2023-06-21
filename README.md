@@ -1,8 +1,14 @@
-# Seja bem vindo! 🤗
+# Olá, Seja bem vindo ao meu perfil! 🤗
 
-Deixa eu me apresentar para você, eu chamo Anderson, sou natural da cidade de São Paulo e também residente da mesma, atualmente estou me graduando em análise e desenvolvimento de sistemas e me profissionalizando como desenvolvedor Full Stack atravez de um curso ministrado  instituição EBAC. 
-Apaixonado por toda a área de tecnologia e fascinado por IA, quero poder me tornar uma grande referência.
-Não deixe de me seguiur e acompanhar meu desenvolvimento e meus projetos. 😉  
+Deixa eu me apresentar para você, eu chamo Anderson, sou natural da cidade de São Paulo e também residente da mesma, atualmente estou me graduando em análise e desenvolvimento de sistemas e me profissionalizando como desenvolvedor Full Stack através de um curso ministrado pela instituição EBAC.  
+Apaixonado pela área de tecnologia e fascinado por IA, quero poder me tornar uma grande referência.  
+
+A próposito não deixe de me seguiur e acompanhar meu desenvolvimento e meus projetos. 😉  
+
+### Ensino
+- Tecnólogo em análise e desenvolvimento de sistemas - **FMU**
+- Desenvolvedor Full-Stack - **EBAC**
+
 ##  
 
 ### Detalhes
