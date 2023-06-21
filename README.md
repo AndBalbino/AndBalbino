@@ -1,5 +1,8 @@
 # Seja bem vindo!
 
+
+Olá, seja bem vindo ao meu perfil do GitHub.
+Eu chamo Anderson, sou natural da cidade de São Paulo e também residente da mesma, graduando em análise e desenvol
 - Graduando em análise e desenvolvimento de sistemas. 
 - Cursando desenvolvimento Full Stack pela instituição EBAC. 
 
