@@ -1,10 +1,8 @@
 # Seja bem vindo!
 
-
-Olá, seja bem vindo ao meu perfil do GitHub.
-Eu chamo Anderson, sou natural da cidade de São Paulo e também residente da mesma, graduando em análise e desenvol
-- Graduando em análise e desenvolvimento de sistemas. 
-- Cursando desenvolvimento Full Stack pela instituição EBAC. 
+Deixa eu me apresentar para você, eu chamo Anderson, sou natural da cidade de São Paulo e também residente da mesma, atualmente estou me graduando em análise e desenvolvimento de sistemas e me profissionalizando como desenvolvedor Full Stack atravez de um curso ministrado  instituição EBAC. 
+Apaixonado por toda a área de tecnologia e fascinado por IA, quero poder me tornar uma grande referência.
+Não deixe de me seguiur e acompanhar meu desenvolvimento e meus projetos. 😉 
 
 <div>
   <a href="https://github.com/AndBalbino">
