@@ -1,9 +1,12 @@
 # Olá, Seja bem vindo ao meu perfil! 🤗
 
-Deixa eu me apresentar para você, eu chamo Anderson, sou natural da cidade de São Paulo e também residente da mesma, atualmente estou me graduando em análise e desenvolvimento de sistemas e me profissionalizando como desenvolvedor Full Stack através de um curso ministrado pela instituição EBAC.  
-Apaixonado pela área de tecnologia e fascinado por IA, quero poder me tornar uma grande referência.  
+Deixa eu me apresentar para você, eu chamo Anderson, sou natural da cidade de São Paulo e também residente da mesma.  
+Atualmente estou me graduando em análise e desenvolvimento de sistemas e me especializando como desenvolvedor Full-Stack através do  curso profissionalizante ministrado pela EBAC (Escola Britânica de Artes Criativas e Tecnologia).  
+Apaixonado pela área de tecnologia e fascinado por inteligência artificial, quero poder me tornar uma grande referência no mundo tech.  
 
-A próposito não deixe de me seguiur e acompanhar meu desenvolvimento e meus projetos. 😉  
+A próposito não deixe de me seguiur e acompanhar meu desenvolvimento e projetos. 😉  
+
+## 
 
 ### Ensino
 - Tecnólogo em análise e desenvolvimento de sistemas - **FMU**
@@ -17,15 +20,28 @@ A próposito não deixe de me seguiur e acompanhar meu desenvolvimento e meus pr
 
 ##
 
- ### Linguagens utilizadas
+
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndBalbino&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
   
 
   
-  <div style="display: inline_block"><br>
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> 
-  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+ <div style="display: inline_block"><br>
+  
+ <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> 
+  
+ <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  
+ <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+  
+ <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+ 
+ <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+
+ <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+     
+ 
+                   
   </div>
   
   ##
