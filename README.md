@@ -18,14 +18,15 @@ A próposito não deixe de me seguir e acompanhar meu desenvolvimento e projetos
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndBalbino&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-##
-
-
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndBalbino&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-  
 
-  
+ ##
+
+ ### Tecnologias que domino  
+
+ ##
+   
  <div style="display: inline_block">
   
  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> 
@@ -46,8 +47,9 @@ A próposito não deixe de me seguir e acompanhar meu desenvolvimento e projetos
 
   </div>
   
-  ##
-
+##
+### Redes de contato
+##
   
   <div> 
   <a href="https://www.instagram.com/a_balbino0"  target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
