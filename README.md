@@ -1,4 +1,4 @@
-# Olá, Seja bem vindo ao meu perfil! 🤗
+# Olá, seja bem vindo ao meu perfil! 🤗
 
 Deixa eu me apresentar para você, eu chamo Anderson, sou natural da cidade de São Paulo e também residente da mesma.  
 Atualmente estou me graduando em análise e desenvolvimento de sistemas e me especializando como desenvolvedor Full-Stack através do  curso profissionalizante ministrado pela EBAC (Escola Britânica de Artes Criativas e Tecnologia).  
