@@ -1,6 +1,6 @@
 # Olá, seja bem vindo ao meu perfil! 🤗
 
-Deixa eu me apresentar para você, eu chamo Anderson, sou natural da cidade de São Paulo e também residente da mesma.  
+Deixa eu me apresentar para você, eu me chamo Anderson, tenho 24 anos e sou natural do estado de São Paulo.  
 Atualmente estou me graduando em análise e desenvolvimento de sistemas e me especializando como desenvolvedor Full-Stack através do  curso profissionalizante ministrado pela EBAC (Escola Britânica de Artes Criativas e Tecnologia).  
 Apaixonado pela área de tecnologia e fascinado por inteligência artificial, quero poder me tornar uma grande referência no mundo tech.  
 
