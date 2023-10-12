@@ -1,10 +1,5 @@
 # Olá, seja bem vindo ao meu perfil! 🤗
-
-Deixa eu me apresentar para você, eu me chamo Anderson, tenho 24 anos e sou natural do estado de São Paulo.  
-Atualmente estou me graduando em análise e desenvolvimento de sistemas e me especializando como desenvolvedor Full-Stack através do  curso profissionalizante ministrado pela EBAC (Escola Britânica de Artes Criativas e Tecnologia).  
-Apaixonado pela área de tecnologia e fascinado por inteligência artificial, quero poder me tornar uma grande referência no mundo tech.  
-
-A próposito não deixe de me seguir e acompanhar meu desenvolvimento e projetos. 😉  
+ Eu me chamo Anserson, sou um estudante de Análise e Desenvolvimento de Sistemas e tenho uma grande paixão por tecnologia, especialmente pela inteligência artificial. No momento, estou focado em aprimorar minhas habilidades como desenvolvedor Full-Stack através de um curso ministrado pela EBAC (Escola Britânica de Artes Criativas e Tecnologia). Meu objetivo é me tornar uma referência na indústria de tecnologia. Se quiser acompanhar meu progresso e os projetos em que estou trabalhando me siga! 😉  
 
 ## 
 
