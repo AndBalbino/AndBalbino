@@ -39,7 +39,7 @@
 
 ### Projeto:
 
- [![Readme Card](https://andressa-camargo-nails-designer.vercel.app/)](https://github.com/anuraghazra/github-readme-stats)
+ [![Readme Card](https://github.com/AndBalbino/NailsDesigner)](https://github.com/anuraghazra/github-readme-stats)
 
  ##
 
