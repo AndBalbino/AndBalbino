@@ -39,7 +39,7 @@
 
 ### Projeto:
 
- [![Readme Card](https://github.com/AndBalbino/NailsDesigner)](https://github.com/anuraghazra/github-readme-stats)
+ [![Nome do Projeto](https://github-readme-stats.vercel.app/api/pin/?username=AndBalbino&repo=NailsDesigner)](https://github.com/AndBalbino/NailsDesigner)
 
  ##
 
