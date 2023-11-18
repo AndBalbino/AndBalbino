@@ -1,20 +1,7 @@
-# <div align="center"> Olá, seja bem vindo ao meu perfil!🤗</div>
-
-<div align="center"> <br><br>Eu me chamo Anserson, sou um estudante de Análise e Desenvolvimento de Sistemas e tenho uma grande paixão por tecnologia, especialmente pela inteligência artificial. No momento, estou focado em aprimorar minhas habilidades como desenvolvedor Full-Stack através de um curso ministrado pela EBAC (Escola Britânica de Artes Criativas e Tecnologia). Meu objetivo é me tornar uma referência na indústria de tecnologia. Se quiser acompanhar meu progresso e os projetos em que estou trabalhando me siga! 😉  </div>&nbsp;
-
-<div  align="center" style="margin-bottom:100px">
- 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndBalbino&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndBalbino&theme=dark&layout=compact) 
- 
 
 
- </div>
- 
- &nbsp;
- &nbsp;
-
+# <div align="center"> Olá, seja bem vindo ao meu perfil!</div>
+<div align="center">Eu me chamo Anserson, sou um estudante de Análise e Desenvolvimento de Sistemas e tenho uma grande paixão por tecnologia, especialmente por inteligência artificial. No momento, estou focado em aprimorar minhas habilidades como desenvolvedor Full-Stack através de um curso ministrado pela EBAC (Escola Britânica de Artes Criativas e Tecnologia). Meu objetivo é me tornar uma referência na indústria de tecnologia. Se quiser acompanhar meu progresso e os projetos em que estou trabalhando me siga! 😉  </div>&nbsp;
 
 
 ## Minhas Skills
@@ -32,9 +19,6 @@
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
 #### Banco de dados:
 
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
@@ -48,8 +32,17 @@
  <a href="https://www.discord.com/channels/@me"  target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   
 </div>&nbsp;&nbsp;
- 
 
-  
+
+ <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndBalbino&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
+ 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndBalbino&show_icons=true&theme=tokyonight)
+
+ 
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
