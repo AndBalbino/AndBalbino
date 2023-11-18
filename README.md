@@ -1,55 +1,55 @@
-# Olá, seja bem vindo ao meu perfil! 🤗
- Eu me chamo Anserson, sou um estudante de Análise e Desenvolvimento de Sistemas e tenho uma grande paixão por tecnologia, especialmente pela inteligência artificial. No momento, estou focado em aprimorar minhas habilidades como desenvolvedor Full-Stack através de um curso ministrado pela EBAC (Escola Britânica de Artes Criativas e Tecnologia). Meu objetivo é me tornar uma referência na indústria de tecnologia. Se quiser acompanhar meu progresso e os projetos em que estou trabalhando me siga! 😉  
+# <div align="center"> Olá, seja bem vindo ao meu perfil!🤗</div>
 
-## 
+<div align="center"> <br><br>Eu me chamo Anserson, sou um estudante de Análise e Desenvolvimento de Sistemas e tenho uma grande paixão por tecnologia, especialmente pela inteligência artificial. No momento, estou focado em aprimorar minhas habilidades como desenvolvedor Full-Stack através de um curso ministrado pela EBAC (Escola Britânica de Artes Criativas e Tecnologia). Meu objetivo é me tornar uma referência na indústria de tecnologia. Se quiser acompanhar meu progresso e os projetos em que estou trabalhando me siga! 😉  </div>&nbsp;
 
-- Tecnólogo em análise e desenvolvimento de sistemas - **FMU**
-- Desenvolvedor Full-Stack - **EBAC**
-
-## 
-
-
- <div style="display: inline_block">
-  
- <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> 
-  
- <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  
- <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-  
- <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+<div  align="center" style="margin-bottom:100px">
  
- <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-
-<img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-
-<img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
-
-<img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-
-  </div>
-  
-##
-### Detalhes:
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndBalbino&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndBalbino&theme=dark&layout=compact)
-
-### Projeto:
-
- [![Nome do Projeto](https://github-readme-stats.vercel.app/api/pin/?username=AndBalbino&repo=NailsDesigner)](https://github.com/AndBalbino/NailsDesigner)
-
- ##
-
-### Redes de contato: 
   
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndBalbino&theme=dark&layout=compact) 
+ 
+
+
+ </div>
+ 
+ &nbsp;
+ &nbsp;
+
+
+
+## Minhas Skills
+
+#### Tecnologias dominantes:
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+#### Banco de dados:
+
+![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+
+
+## Contato:
+
   <div> 
   <a href="https://www.instagram.com/a_balbino0"  target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/anderson-balbino-52a93a233/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://www.discord.com/channels/@me"  target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   
-</div>
+</div>&nbsp;&nbsp;
+ 
 
-
+  
+  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
