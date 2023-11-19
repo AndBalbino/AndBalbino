@@ -44,11 +44,6 @@
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndBalbino&show_icons=true&theme=tokyonight)
 
-
-
-
-
- ![snake gif](https://github.com/AndBalbino/AndBalbino/blob/output/github-contribution-grid-snake.svg)
  
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
