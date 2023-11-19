@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Inconsolata&size=40&center=true&vCenter=true&width=700&height=100&duration=4000&lines=Olá,+eu+me+chamo+Anderson+👋;+Seja+bem+vindo+ao+meu+perfil!+😉;" />
 </h1>
 
-<div align="center">Eu me chamo Anderson, sou um estudante de Análise e Desenvolvimento de Sistemas e tenho uma grande paixão por tecnologia, especialmente por inteligência artificial. No momento, estou focado em aprimorar minhas habilidades como desenvolvedor Full-Stack através de um curso ministrado pela EBAC (Escola Britânica de Artes Criativas e Tecnologia). Meu objetivo é me tornar uma referência na indústria de tecnologia. Se quiser acompanhar meu progresso e os projetos em que estou trabalhando me siga! </div>&nbsp;
+<div align="center">Estudante de Análise e Desenvolvimento de Sistemas e tenho uma grande paixão por tecnologia, especialmente por inteligência artificial. No momento, estou focado em aprimorar minhas habilidades como desenvolvedor Full-Stack através de um curso ministrado pela EBAC (Escola Britânica de Artes Criativas e Tecnologia). Meu objetivo é me tornar uma referência na indústria de tecnologia. Se quiser acompanhar meu progresso e os projetos em que estou trabalhando me siga! </div>&nbsp;
 
 
 ## Minhas Skills
