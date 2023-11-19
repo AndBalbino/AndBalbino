@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Inconsolata&size=40&center=true&vCenter=true&width=700&height=100&duration=4000&lines=Olá,+eu+me+chamo+Anderson+👋;+Seja+bem+vindo+ao+meu+perfil!+😉;" />
 </h1>
 
-<div align="center"> Estudande de analise e desenvolvimento de sistemas e apaixonado por tecnologia. No momento, estou focado em aprimorar minhas habilidades como desenvolvedor Full-Stack. Meu objetivo é me tornar uma referência na indústria de tecnologia. Se quiser acompanhar meu progresso e os projetos em que estou trabalhando me siga! </div>&nbsp;
+<div align="center"> Estudande de analise e desenvolvimento de sistemas e apaixonado por tecnologia. No momento, estou focado em aprimorar minhas habilidades como desenvolvedor Full-Stack, com o objetivo claro em me tornar uma referência na indústria de tecnologia.</div>&nbsp;
 
 
 ## Minhas Skills
