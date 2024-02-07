@@ -4,7 +4,9 @@
 </h1>
 
 
-<div align="center"> Estudande de análise e desenvolvimento de sistemas e apaixonado por tecnologia. No momento, estou focado em aprimorar minhas habilidades como desenvolvedor Full-Stack, com o objetivo claro em me tornar uma referência na indústria da tecnologia.</div>&nbsp;
+<div align="center"> Graduando em análise e desenvolvimento de sistemas e apaixonado por tecnologia.
+   
+  No momento, estou focado em aprimorar minhas habilidades como desenvolvedor Full-Stack, com o objetivo claro em me tornar uma referência na indústria da tecnologia.</div>&nbsp;
 
 <h2 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Inconsolata&size=40&center=true&vCenter=true&width=700&height=100&duration=10000&lines=Full-Stack+Developer;" />
