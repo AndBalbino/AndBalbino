@@ -5,11 +5,12 @@
 </h1>
 
  ## 📍 Sobre mim
+ <div>
   🎓 Pós-graduando em Data Analytics pela FIAP
   🥊 Atleta de artes marciais 
   📚 Apaixonado por leitura 
   ⛰️ Trilheiro e aventureiro
-
+</div>
 
 ## 🛠️ Hard Skills
 
