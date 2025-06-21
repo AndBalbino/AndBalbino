@@ -1,21 +1,15 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0F0F5C&height=120&section=header"/>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inconsolata&size=40&center=true&vCenter=true&width=1000&height=100&duration=3000&lines=Olá!+Seja+bem+vindo+ao+meu+perfil!;Eu+me+chamo+Anderson+Balbino👋;Sou+Analista+de+Dados+📊;Apaixonado+por+IA;+Estratégia+e+transformação+digital" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inconsolata&size=40&center=true&vCenter=true&width=1000&height=100&duration=3000&lines=Seja+bem+vindo+ao+meu+perfil!" />
 </h1>
 
 <div align="center">
 
-🎓 Pós-graduando em **Data Analytics**  
-🎯 Focado em me tornar referência em **Análise de Dados e Inteligência Artificial**  
+🎓 Pós-graduando em **Data Analytics pela FIAP**  
+🎯 Focado em me tornar referência em **Área de Dados e Inteligência Artificial**  
 
 </div>  
-
-
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Inconsolata&size=40&center=true&vCenter=true&width=700&height=100&duration=4000&lines=Olá,+eu+me+chamo+Anderson+👋;+Seja+bem+vindo+ao+meu+perfil!+😉;" />
-</h1>
-
 
 <div align="center"> Pós graduando em data analytics.
 ---
@@ -28,7 +22,7 @@ Olá! Sou o Anderson Balbino, e estou construindo minha carreira com base em tr�
 - 📈 **Domínio técnico em dados, estatística e machine learning**
 - 🤖 **Paixão por IA, inovação e impacto real através da tecnologia**
 
-Sou um eterno aprendiz, guiado por propósito e compromisso. Busco não apenas entender os dados, mas **transformá-los em decisões estratégicas.**
+Sou um eterno aprendiz, guiado por um propósito e compromisso. Busco não apenas entender os dados, mas **transformá-los em decisões estratégicas e acertivas.**
 
 ---
 
@@ -41,6 +35,8 @@ Sou um eterno aprendiz, guiado por propósito e compromisso. Busco não apenas e
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)&nbsp;
 
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)&nbsp;
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)&nbsp;
@@ -63,25 +59,17 @@ Sou um eterno aprendiz, guiado por propósito e compromisso. Busco não apenas e
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)&nbsp;
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)&nbsp;
 
-### 🔬 Estatística & R
-
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
-![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)&nbsp;
-
 ### 🔧 Controle de versão
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
 ---
 
-## 🚧 Projetos em destaque
-
+ <!-- ## 🚧 Projetos em destaque
 🛠️ *Em breve!* Esta seção trará os projetos que estou desenvolvendo com foco em:
 - Análise de dados públicos (como IBGE, Kaggle, Open Data)
 - Dashboards interativos em Power BI e Plotly
-- Modelos preditivos com Scikit-learn e XGBoost
-
----
+- Modelos preditivos com Scikit-learn e XGBoost -->
 
 ## 📫 Contato
 
