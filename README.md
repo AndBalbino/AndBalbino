@@ -4,14 +4,13 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Inconsolata&size=40&center=true&vCenter=true&width=1000&height=100&duration=3000&lines=Seja+bem+vindo+ao+meu+perfil!" />
 </h1>
 
-<div align="center">
+<div>
 
 🎓 Pós-graduando em **Data Analytics pela FIAP**  
 🎯 Focado em me tornar referência em **Área de Dados e Inteligência Artificial**  
 
 </div>  
 
----
 
 ## 📍 Sobre mim
 
