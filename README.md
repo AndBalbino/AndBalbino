@@ -5,17 +5,10 @@
 </h1>
 
  ## 📍 Sobre mim
-  🎓 Pós-graduando em **Data Analytics pela FIAP**  
-  🎯 Focado em me tornar referência em **Área de Dados e Inteligência Artificial**  
-
-  Estou construindo minha carreira com base em três pilares:
-- 🧠 **Mentalidade analítica e visão de negócios**
-- 📈 **Domínio técnico em dados, estatística e machine learning**
-- 🤖 **Paixão por IA, inovação e impacto real através da tecnologia**
-
-Sou um eterno aprendiz, guiado por um propósito e compromisso. Busco não apenas entender os dados, mas **transformá-los em decisões estratégicas e acertivas.**
-
-
+  🎓 Pós-graduando em Data Analytics pela FIAP
+  🥊 Atleta de artes marciais 
+  📚 Apaixonado por leitura 
+  ⛰️ Trilheiro e aventureiro
 
 
 ## 🛠️ Hard Skills
