@@ -12,7 +12,7 @@
 </div>  
 
 
-## 📍 Sobre mim
+#### 📍 Sobre mim
 
 Olá! Sou o Anderson Balbino, e estou construindo minha carreira com base em três pilares:
 
@@ -26,7 +26,7 @@ Sou um eterno aprendiz, guiado por um propósito e compromisso. Busco não apena
 
 ## 🛠️ Hard Skills
 
-### 👨‍💻 Ferramentas & Linguagens
+#### 👨‍💻 Ferramentas & Linguagens
 
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)&nbsp;
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)&nbsp;
@@ -39,7 +39,7 @@ Sou um eterno aprendiz, guiado por um propósito e compromisso. Busco não apena
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)&nbsp;
 
-### 📚 Bibliotecas
+#### 📚 Bibliotecas
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
@@ -47,17 +47,17 @@ Sou um eterno aprendiz, guiado por um propósito e compromisso. Busco não apena
 ![Seaborn](https://img.shields.io/badge/Seaborn-2D3F66?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)&nbsp;
 
-### 🤖 Machine Learning & Estatística
+#### 🤖 Machine Learning & Estatística
 
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;
 ![XGBoost](https://img.shields.io/badge/XGBoost-EC6C00?style=for-the-badge&logo=xgboost&logoColor=white)&nbsp;
 
-### 📊 BI e Visualização
+#### 📊 BI e Visualização
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)&nbsp;
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)&nbsp;
 
-### 🔧 Controle de versão
+#### 🔧 Controle de versão
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
@@ -69,7 +69,7 @@ Sou um eterno aprendiz, guiado por um propósito e compromisso. Busco não apena
 - Dashboards interativos em Power BI e Plotly
 - Modelos preditivos com Scikit-learn e XGBoost -->
 
-## 📫 Contato
+#### 📫 Contato
 
 <div> 
   <a href="https://www.instagram.com/a_balbino0" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -79,7 +79,7 @@ Sou um eterno aprendiz, guiado por um propósito e compromisso. Busco não apena
 
 ---
 
-## 📊 GitHub Stats
+#### 📊 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndBalbino&show_icons=true&theme=tokyonight"/>
