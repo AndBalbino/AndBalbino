@@ -7,7 +7,7 @@
 </h1>
 
 <!-- SOBRE MIM -->
-### 🧠 Perfil profissional
+###  Perfil profissional
 
 Pós graduando em Data Analytics pela FIAP, e graduado em análise e desenvolvimento de sistemas, possuo conhecimento sólido e prática na área de dados e programação.
 Tenho o domínio de ferramentas como SQL, Excel, Python e suas principais bibliotecas como o Pandas, NumPy, Seaborn, Tableau e Power Bi. Conheço sobre o storytelling com dados, como funcionam todas as etapas do processo de ETL (Extract, Transform, Load), e metodologias de projetos de dados como o CRISP-DM e KDD, que auxiliam no desenvolvimento de um projeto de dados consistente. Com isso, sou capaz de transformar dados brutos em insights valiosos, e ajudar na tomada de decisões baseadas em dados.
@@ -19,16 +19,16 @@ Tenho o domínio de ferramentas como SQL, Excel, Python e suas principais biblio
 
 
 <!-- HARD SKILLS -->
-## 💼 Hard Skills
+## Hard Skills
 
-### 📊 Ferramentas & Linguagens
+### Ferramentas
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-### 🧪 Análise e Programação
+### Análise e Programação
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -36,7 +36,7 @@ Tenho o domínio de ferramentas como SQL, Excel, Python e suas principais biblio
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
 
-### 📚 Bibliotecas Python
+### Bibliotecas Python
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -44,17 +44,17 @@ Tenho o domínio de ferramentas como SQL, Excel, Python e suas principais biblio
 ![Seaborn](https://img.shields.io/badge/Seaborn-2D3F66?style=for-the-badge&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
-### 🤖 Machine Learning
+### Machine Learning
 
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-EC6C00?style=for-the-badge&logo=xgboost&logoColor=white)
 
-### 📈 Visualização de Dados
+### Visualização de Dados
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-### 🔧 Versionamento
+### Versionamento
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
