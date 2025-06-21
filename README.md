@@ -5,22 +5,21 @@
 </h1>
 
 <div>
+  ## 📍 Sobre mim
+  🎓 Pós-graduando em **Data Analytics pela FIAP**  
+  🎯 Focado em me tornar referência em **Área de Dados e Inteligência Artificial**  
 
-🎓 Pós-graduando em **Data Analytics pela FIAP**  
-🎯 Focado em me tornar referência em **Área de Dados e Inteligência Artificial**  
-
-</div>  
-
-
-#### 📍 Sobre mim
-
-Olá! Sou o Anderson Balbino, e estou construindo minha carreira com base em três pilares:
-
+  Estou construindo minha carreira com base em três pilares:
 - 🧠 **Mentalidade analítica e visão de negócios**
 - 📈 **Domínio técnico em dados, estatística e machine learning**
 - 🤖 **Paixão por IA, inovação e impacto real através da tecnologia**
 
 Sou um eterno aprendiz, guiado por um propósito e compromisso. Busco não apenas entender os dados, mas **transformá-los em decisões estratégicas e acertivas.**
+
+
+
+</div>  
+
 
 
 ## 🛠️ Hard Skills
