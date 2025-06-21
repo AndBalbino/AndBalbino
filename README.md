@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0F0F5C&height=120&section=header"/>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inconsolata&size=40&center=true&vCenter=true&width=1000&height=100&duration=4000&lines=Olá!+Seja+bem+vindo+ao+meu+perfil!,Eu+me+chamo+Anderson+Balbino👋;Analista+de+Dados+📊;Apaixonado+por+IA;+estratégia;E+transformação+digital" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inconsolata&size=40&center=true&vCenter=true&width=1000&height=100&duration=4000&lines=Olá!+Seja+bem+vindo+ao+meu+perfil!;Eu+me+chamo+Anderson+Balbino👋;Analista+de+Dados+📊;Apaixonado+por+IA;+estratégia;E+transformação+digital" />
 </h1>
 
 <div align="center">
