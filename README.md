@@ -3,18 +3,19 @@
 
 <!-- TÍTULO -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&center=true&vCenter=true&width=1000&height=100&lines=Olá,+eu+sou+Anderson+Balbino!;Analista+de+Dados+apaixonado+por+IA+e+estratégia+digital." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&center=true&vCenter=true&width=1000&height=100&lines=Olá, seja+bem+vindo+ao+meu+perfil;Eu+me+chamo+Anderson+Balbino!;Analista+de+Dados+apaixonado+por+IA+e+estratégia+digital." />
 </h1>
 
 <!-- SOBRE MIM -->
-## 🧠 Sobre mim
+### 🧠 Perfil profissional
 
-Pós-graduando em **Data Analytics** pela **FIAP** e apaixonado por transformar dados em decisões inteligentes com o objetivo claro de me tornar um **líder estratégico na área de dados e IA**.
+Pós graduando em Data Analytics pela FIAP, e graduado em análise e desenvolvimento de sistemas, possuo conhecimento sólido e prática na área de dados e programação.
+Tenho o domínio de ferramentas como SQL, Excel, Python e suas principais bibliotecas como o Pandas, NumPy, Seaborn, Tableau e Power Bi. Conheço sobre o storytelling com dados, como funcionam todas as etapas do processo de ETL (Extract, Transform, Load), e metodologias de projetos de dados como o CRISP-DM e KDD, que auxiliam no desenvolvimento de um projeto de dados consistente. Com isso, sou capaz de transformar dados brutos em insights valiosos, e ajudar na tomada de decisões baseadas em dados.
 
-Curiosidades sibre mim: 
+### Curiosidades 
 - 🥊 Atleta e professor de **Muay Thai**
 - 📚 Apaixonado por **leitura**
-- 🏕️ Explorador de trilhas, natureza e aventuras
+- 🏕️ Explorador de trilhas, natureza e aventuras 
 
 
 <!-- HARD SKILLS -->
