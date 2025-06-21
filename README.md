@@ -22,7 +22,6 @@ Olá! Sou o Anderson Balbino, e estou construindo minha carreira com base em tr�
 
 Sou um eterno aprendiz, guiado por um propósito e compromisso. Busco não apenas entender os dados, mas **transformá-los em decisões estratégicas e acertivas.**
 
----
 
 ## 🛠️ Hard Skills
 
@@ -61,8 +60,6 @@ Sou um eterno aprendiz, guiado por um propósito e compromisso. Busco não apena
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
----
-
  <!-- ## 🚧 Projetos em destaque
 🛠️ *Em breve!* Esta seção trará os projetos que estou desenvolvendo com foco em:
 - Análise de dados públicos (como IBGE, Kaggle, Open Data)
@@ -77,8 +74,6 @@ Sou um eterno aprendiz, guiado por um propósito e compromisso. Busco não apena
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
----
-
 #### 📊 GitHub Stats
 
 <div align="center">
@@ -86,6 +81,5 @@ Sou um eterno aprendiz, guiado por um propósito e compromisso. Busco não apena
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndBalbino&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
----
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
