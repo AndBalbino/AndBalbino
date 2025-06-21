@@ -61,11 +61,17 @@ Tenho o domínio de ferramentas como SQL, Excel, Python e suas principais biblio
 ---
 
 <!-- PROJETOS -->
-## 🚀 Projetos em Destaque
+## Projetos em Destaque
 
-> *Em breve estarei compartilhando projetos que aplicam conceitos avançados de análise de dados, machine learning e BI.*
+> *Em breve estarei compartilhando os projetos em que aestou trabalhando.*
 
-```txt
-🧠 Desemprego no Brasil: análise com dados públicos + visualização no Power BI  
-📊 Painel interativo: Vendas e desempenho (com dados simulados no Plotly)  
-🤖 Modelo preditivo: churn bancário com Scikit-learn e XGBoost
+## GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndBalbino&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndBalbino&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+---
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
