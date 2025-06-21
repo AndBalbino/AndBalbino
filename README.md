@@ -11,8 +11,6 @@
 
 </div>  
 
-<div align="center"> Pós graduando em data analytics.
----
 
 ## 📍 Sobre mim
 
