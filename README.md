@@ -5,7 +5,6 @@
 </h1>
 
  ## 📍 Sobre mim
-<div>
   🎓 Pós-graduando em **Data Analytics pela FIAP**  
   🎯 Focado em me tornar referência em **Área de Dados e Inteligência Artificial**  
 
@@ -16,9 +15,6 @@
 
 Sou um eterno aprendiz, guiado por um propósito e compromisso. Busco não apenas entender os dados, mas **transformá-los em decisões estratégicas e acertivas.**
 
-
-
-</div>  
 
 
 
