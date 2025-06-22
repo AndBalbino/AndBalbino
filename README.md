@@ -63,7 +63,7 @@ Tenho o domínio de ferramentas como SQL, Excel, Python e suas principais biblio
 <!-- PROJETOS -->
 ## Projetos em Destaque
 
-> *Em breve estarei compartilhando os projetos em que aestou trabalhando.*
+> *Em breve estarei compartilhando os projetos no qual estou trabalhando.*
 
 ## GitHub Stats
 
