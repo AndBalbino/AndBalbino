@@ -12,7 +12,7 @@
 Pós graduando em Data Analytics pela FIAP, e graduado em análise e desenvolvimento de sistemas, possuo conhecimento sólido e prática na área de dados e programação.
 Tenho o domínio de ferramentas como SQL, Excel, Python e suas principais bibliotecas como o Pandas, NumPy, Seaborn, Tableau e Power Bi. Conheço sobre o storytelling com dados, como funcionam todas as etapas do processo de ETL (Extract, Transform, Load), e metodologias de projetos de dados como o CRISP-DM e KDD, que auxiliam no desenvolvimento de um projeto de dados consistente. Com isso, sou capaz de transformar dados brutos em insights valiosos, e ajudar na tomada de decisões baseadas em dados.
 
-### Curiosidades 
+### Curiosidades sobre mim 
 - 🥊 Atleta e professor de **Muay Thai**
 - 📚 Apaixonado por **leitura**
 - 🏕️ Explorador de trilhas, natureza e aventuras 
