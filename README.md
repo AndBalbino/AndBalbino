@@ -3,7 +3,7 @@
 
 <!-- TÍTULO -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&center=true&vCenter=true&width=1000&height=100&lines=Olá,+seja+bem+vindo+ao+meu+perfil!;Eu+me+chamo+Anderson+Balbino;E+sou+Analista+de+Dados." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size52&duration=5000&center=true&vCenter=true&width=1000&height=100&lines=Olá,+seja+bem+vindo+ao+meu+perfil!;Data+Analytics+📊." />
 </h1>
 
 <!-- SOBRE MIM -->
