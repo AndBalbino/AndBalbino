@@ -3,7 +3,7 @@
 
 <!-- TÍTULO -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=48&duration=4500&center=true&vCenter=true&width=1000&height=100&lines=Olá,+seja+bem+vindo+ao+meu+perfil!;Data+Analytics+📊&color=000080"" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=48&duration=4500&center=true&vCenter=true&width=1000&height=100&lines=Olá,+seja+bem+vindo+ao+meu+perfil!;Data+Analytics+📊&color=0000CD"" />
 </h1>
 
 <!-- SOBRE MIM -->
