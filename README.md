@@ -1,5 +1,5 @@
 <!-- HEADER DECORATIVO -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4F4F4F&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0000CD&height=120&section=header"/>
 
 <!-- TÍTULO -->
 <h1 align="center">
@@ -75,4 +75,4 @@ Tenho o domínio de ferramentas como SQL, Tableau, Power Bi, Excel, linguagem R,
 
 ---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000CD&height=120&section=footer"/>
