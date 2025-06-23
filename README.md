@@ -1,5 +1,5 @@
 <!-- HEADER DECORATIVO -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4F4F4F&height=120&section=header"/>
 
 <!-- TÍTULO -->
 <h1 align="center">
